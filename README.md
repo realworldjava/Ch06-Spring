@@ -1,6 +1,6 @@
 # Chapter 6: Getting to Know the Spring Framework
 
-This repository contains the code from the book for Chapter 6, Getting to Know the Spring Framework. See the [main book page)[https://github.com/realworldjava) for the list of all chapter specific repositories.
+This repository contains the code from the book for Chapter 6, Getting to Know the Spring Framework. See the [main book page](https://github.com/realworldjava) for the list of all chapter specific repositories.
 
 # How this repository is organized
 
